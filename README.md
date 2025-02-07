@@ -2,4 +2,4 @@
 
 Created in C++ with the JUCE plugin framework.
 
-Working vst3 for mac is in DEMO folder. A short video example is there too. 
+Working vst3 for mac is in this directory. It is called BasicSaturator.vst3.
